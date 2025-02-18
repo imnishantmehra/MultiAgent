@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"Week 1\\\": {\\n \\\"Monday\\\": {\\n \\\"Wisdom\\\": [\\n \\\"Embrace change: Change is the only constant in life, and embracing it can lead to new opportunities and growth.\\\"\\n ]\\n }\\n }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"week_1\\\": {\\n \\\"Friday\\\": {\\n \\\"content_type\\\": \\\"wisdom\\\",\\n \\\"subcontent\\\": [\\n \\\"Embrace failures as stepping stones towards success. Learning from setbacks can provide the essential experience necessary for growth and improvement.\\\"\\n ]\\n }\\n }\\n}\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T18:14:48.995093",
+            "word_count": 75,
+            "char_count": 557
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"Week 1\\\": {\\n \\\"Monday\\\": {\\n \\\"Wisdom\\\": [\\n \\\"Embrace change: Change is the only constant in life, and embracing it can lead to new opportunities and growth.\\\"\\n ]\\n }\\n }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"week_1\\\": {\\n \\\"Friday\\\": {\\n \\\"content_type\\\": \\\"wisdom\\\",\\n \\\"subcontent\\\": [\\n \\\"Embrace failures as stepping stones towards success. Learning from setbacks can provide the essential experience necessary for growth and improvement.\\\"\\n ]\\n }\\n }\\n}\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T18:14:55.685160",
+            "word_count": 75,
+            "char_count": 557
+        }
+    ]
+}

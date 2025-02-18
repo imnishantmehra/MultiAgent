@@ -1,0 +1,58 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:48:14.836352",
+            "word_count": 4,
+            "char_count": 24
+        },
+        {
+            "week_day": "Week 1 - Monday - Post 2",
+            "title": "instagram - Week 1, Monday - Post 2",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:48:14.836352",
+            "word_count": 4,
+            "char_count": 24
+        },
+        {
+            "week_day": "Week 1 - Monday - Post 3",
+            "title": "instagram - Week 1, Monday - Post 3",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:48:14.836352",
+            "word_count": 4,
+            "char_count": 24
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:48:20.738912",
+            "word_count": 4,
+            "char_count": 24
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 2",
+            "title": "instagram - Week 1, Friday - Post 2",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:48:20.738912",
+            "word_count": 4,
+            "char_count": 24
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 3",
+            "title": "instagram - Week 1, Friday - Post 3",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:48:20.738912",
+            "word_count": 4,
+            "char_count": 24
+        }
+    ]
+}

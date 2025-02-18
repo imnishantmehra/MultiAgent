@@ -1,0 +1,31 @@
+{
+    "twitter": [
+        {
+            "week_day": "Week 1 - Tuesday - Post 1",
+            "title": "twitter - Week 1, Tuesday - Post 1",
+            "content": "Update # -  \nI know how hard that can be when we feel \nso limited by our humanness; we want \nwonderful things to happen in our lives, but \nwe act in the opposite direction. It’s \nmaddening!  \nThe 10 steps you’re about to discover \nhelped...#Content #Social",
+            "platform": "twitter",
+            "timestamp": "2025-01-25T16:17:23.049854",
+            "word_count": 45,
+            "char_count": 256
+        },
+        {
+            "week_day": "Week 1 - Wednesday - Post 1",
+            "title": "twitter - Week 1, Wednesday - Post 1",
+            "content": "Update # - It’s \nmaddening!  \nThe 10 steps you’re about to discover \nhelped me to stop acting against my own \nwishes and best interests and to gain the \nfreedom , strength and courage to start living \na big, blissful life. It’ s my since...#Content #Social",
+            "platform": "twitter",
+            "timestamp": "2025-01-25T16:17:27.694663",
+            "word_count": 45,
+            "char_count": 256
+        },
+        {
+            "week_day": "Week 1 - Thursday - Post 1",
+            "title": "twitter - Week 1, Thursday - Post 1",
+            "content": "Update # - It’ s my sincere belief that \nthese 10 steps will work for you, too.  \nI’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living \nthe small, uninspired life I had while I worked  in...#Content #Social",
+            "platform": "twitter",
+            "timestamp": "2025-01-25T16:17:30.845163",
+            "word_count": 48,
+            "char_count": 256
+        }
+    ]
+}

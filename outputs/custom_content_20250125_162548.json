@@ -1,0 +1,42 @@
+{
+    "linkedin": [
+        {
+            "week_day": "Week 1 - Thursday - Post 1",
+            "title": "linkedin - Week 1, Thursday - Post 1",
+            "content": "💡 Professional Insight # - It’ s my sincere belief that these 10 steps will work for you, too. I’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living the small, uninspired life I had while I worked in high -profile positions for companies like CNBC and Discovery Communications. I had a nagging sense that there was something else waiting for me, something b igger and better that I was missing out on#Professional #Development",
+            "platform": "linkedin",
+            "timestamp": "2025-01-25T16:25:20.555046",
+            "word_count": 84,
+            "char_count": 475
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "linkedin - Week 1, Friday - Post 1",
+            "content": "💡 Professional Insight # - I’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living the small, uninspired life I had while I worked in high -profile positions for companies like CNBC and Discovery Communications. I had a nagging sense that there was something else waiting for me, something b igger and better that I was missing out on. Once I got clear on how to use some specific techniques from the intersection of neuroscience and psychology, a whole new world opened up to me#Professional #Development",
+            "platform": "linkedin",
+            "timestamp": "2025-01-25T16:25:29.122044",
+            "word_count": 96,
+            "char_count": 552
+        }
+    ],
+    "facebook": [
+        {
+            "week_day": "Week 1 - Thursday - Post 1",
+            "title": "facebook - Week 1, Thursday - Post 1",
+            "content": "🎯 Update # - It’ s my sincere belief that these 10 steps will work for you, too. I’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living the small, uninspired life I had while I worked in high -profile positions for companies like CNBC and Discovery Communications. I had a nagging sense that there was something else waiting for me, something b igger and better that I was missing out onLike and share if you agree! 👍",
+            "platform": "facebook",
+            "timestamp": "2025-01-25T16:25:38.494370",
+            "word_count": 88,
+            "char_count": 465
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "facebook - Week 1, Friday - Post 1",
+            "content": "🎯 Update # - I’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living the small, uninspired life I had while I worked in high -profile positions for companies like CNBC and Discovery Communications. I had a nagging sense that there was something else waiting for me, something b igger and better that I was missing out on. Once I got clear on how to use some specific techniques from the intersection of neuroscience and psychology, a whole new world opened up to meLike and share if you agree! 👍",
+            "platform": "facebook",
+            "timestamp": "2025-01-25T16:25:48.419525",
+            "word_count": 100,
+            "char_count": 542
+        }
+    ]
+}

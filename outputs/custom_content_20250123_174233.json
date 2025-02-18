@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Monday\\\": {\\n \\\"content_type\\\": \\\"wisdom\\\",\\n \\\"subcontent\\\": [\\n \\\"Embrace challenges as opportunities for growth: This perspective helps reframe difficulties into valuable learning experiences, encouraging resilience and adaptability.\\\"\\n ]\\n }\\n }\\n}\\n```\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Friday\\\": {\\n \\\"subcontent\\\": [\\n {\\n \\\"bullet_point\\\": \\\"Embrace challenges as opportunities for growth - Challenges are often seen as obstacles, but they can also serve as crucial turning points that inspire personal development and resilience.\\\"\\n }\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T17:42:23.424272",
+            "word_count": 87,
+            "char_count": 710
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Monday\\\": {\\n \\\"content_type\\\": \\\"wisdom\\\",\\n \\\"subcontent\\\": [\\n \\\"Embrace challenges as opportunities for growth: This perspective helps reframe difficulties into valuable learning experiences, encouraging resilience and adaptability.\\\"\\n ]\\n }\\n }\\n}\\n```\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Friday\\\": {\\n \\\"subcontent\\\": [\\n {\\n \\\"bullet_point\\\": \\\"Embrace challenges as opportunities for growth - Challenges are often seen as obstacles, but they can also serve as crucial turning points that inspire personal development and resilience.\\\"\\n }\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T17:42:33.492974",
+            "word_count": 87,
+            "char_count": 710
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "wordpress": [
+        {
+            "week_day": "Week 1 - Thursday - Post 1",
+            "title": "wordpress - Week 1, Thursday - Post 1",
+            "content": "It’ s my sincere belief that these 10 steps will work for you, too. I’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living the small, uninspired life I had while I worked in high -profile positions for companies like CNBC and Discovery Communications. I had a nagging sense that there was something else waiting for me, something b igger and better that I was missing out on",
+            "platform": "wordpress",
+            "timestamp": "2025-01-21T18:11:59.238084",
+            "word_count": 78,
+            "char_count": 422
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "wordpress - Week 1, Friday - Post 1",
+            "content": "I’m a freelance writer . I’m a mother, a wife, and a small business owner. I’ m recovering from living the small, uninspired life I had while I worked in high -profile positions for companies like CNBC and Discovery Communications. I had a nagging sense that there was something else waiting for me, something b igger and better that I was missing out on. Once I got clear on how to use some specific techniques from the intersection of neuroscience and psychology, a whole new world opened up to me",
+            "platform": "wordpress",
+            "timestamp": "2025-01-21T18:12:22.303905",
+            "word_count": 90,
+            "char_count": 499
+        }
+    ]
+}

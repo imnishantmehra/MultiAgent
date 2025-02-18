@@ -1,0 +1,24 @@
+# Ignore Python virtual environment folder
+myvenv/
+
+# Ignore .env file for sensitive information
+.env
+
+# Ignore React frontend code folder (if it’s separate)
+reactcode/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore Docker files
+.docker/
+
+# Ignore system-specific files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+db
+
+#ignore Reactcode
+Reactcode
+templates

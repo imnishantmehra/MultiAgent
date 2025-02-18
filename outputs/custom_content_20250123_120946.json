@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:09:37.083782",
+            "word_count": 4,
+            "char_count": 24
+        },
+        {
+            "week_day": "Week 2 - Monday - Post 1",
+            "title": "instagram - Week 2, Monday - Post 1",
+            "content": "📱 {}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T12:09:46.567729",
+            "word_count": 4,
+            "char_count": 24
+        }
+    ]
+}

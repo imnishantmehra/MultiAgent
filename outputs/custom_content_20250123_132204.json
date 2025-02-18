@@ -1,0 +1,58 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {'1737618692': <main.CacheEntry object at 0x0000015786007450>}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T13:21:55.286603",
+            "word_count": 8,
+            "char_count": 84
+        },
+        {
+            "week_day": "Week 1 - Monday - Post 2",
+            "title": "instagram - Week 1, Monday - Post 2",
+            "content": "📱 {'1737618692': <main.CacheEntry object at 0x0000015786007450>}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T13:21:55.286603",
+            "word_count": 8,
+            "char_count": 84
+        },
+        {
+            "week_day": "Week 1 - Monday - Post 3",
+            "title": "instagram - Week 1, Monday - Post 3",
+            "content": "📱 {'1737618692': <main.CacheEntry object at 0x0000015786007450>}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T13:21:55.286603",
+            "word_count": 8,
+            "char_count": 84
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 {'1737618692': <main.CacheEntry object at 0x0000015786007450>}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T13:22:04.002322",
+            "word_count": 8,
+            "char_count": 84
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 2",
+            "title": "instagram - Week 1, Friday - Post 2",
+            "content": "📱 {'1737618692': <main.CacheEntry object at 0x0000015786007450>}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T13:22:04.002322",
+            "word_count": 8,
+            "char_count": 84
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 3",
+            "title": "instagram - Week 1, Friday - Post 3",
+            "content": "📱 {'1737618692': <main.CacheEntry object at 0x0000015786007450>}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T13:22:04.002322",
+            "word_count": 8,
+            "char_count": 84
+        }
+    ]
+}

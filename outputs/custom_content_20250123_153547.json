@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"content\\\": {\\n \\\"week1\\\": {\\n \\\"Monday\\\": {\\n \\\"subcontent\\\": [\\n {\\n \\\"type\\\": \\\"quotes\\\",\\n \\\"content\\\": \\\"The only way to do great work is to love what you do. - Steve Jobs\\\",\\n \\\"explanation\\\": \\\"This quote reminds us that passion is a critical ingredient for excellence and success in our endeavors.\\\"\\n }\\n ]\\n }\\n }\\n }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"week1\\\": {\\n \\\"Friday\\\": {\\n \\\"content\\\": [\\n {\\n \\\"bullet_point\\\": \\\"Embrace Change: Adaptability is key in today\\u2019s fast-paced environment; being open to change can lead to new opportunities.\\\"\\n }\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T15:35:41.503398",
+            "word_count": 96,
+            "char_count": 691
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"content\\\": {\\n \\\"week1\\\": {\\n \\\"Monday\\\": {\\n \\\"subcontent\\\": [\\n {\\n \\\"type\\\": \\\"quotes\\\",\\n \\\"content\\\": \\\"The only way to do great work is to love what you do. - Steve Jobs\\\",\\n \\\"explanation\\\": \\\"This quote reminds us that passion is a critical ingredient for excellence and success in our endeavors.\\\"\\n }\\n ]\\n }\\n }\\n }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"week1\\\": {\\n \\\"Friday\\\": {\\n \\\"content\\\": [\\n {\\n \\\"bullet_point\\\": \\\"Embrace Change: Adaptability is key in today\\u2019s fast-paced environment; being open to change can lead to new opportunities.\\\"\\n }\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T15:35:47.780782",
+            "word_count": 96,
+            "char_count": 691
+        }
+    ]
+}

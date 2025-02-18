@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Monday\\\": {\\n \\\"Content Type\\\": \\\"Wisdom\\\",\\n \\\"Subcontent\\\": [\\n \\\"Embrace Change: Change is an essential part of life. Acknowledge it, adapt to it, and thrive in it.\\\"\\n ]\\n }\\n }\\n}\\n```\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"week_1\\\": {\\n \\\"Friday\\\": {\\n \\\"subcontent\\\": [\\n {\\n \\\"title\\\": \\\"Embracing Change\\\",\\n \\\"explanation\\\": \\\"Understanding that change is a natural part of life opens doors to new opportunities and growth. Embrace the uncertainty, and let it guide you towards your true potential.\\\"\\n }\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T15:24:43.447825",
+            "word_count": 89,
+            "char_count": 658
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 Acknowledge it, adapt to it, and thrive in it.\\\"\\n ]\\n }\\n }\\n}\\n```\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"week_1\\\": {\\n \\\"Friday\\\": {\\n \\\"subcontent\\\": [\\n {\\n \\\"title\\\": \\\"Embracing Change\\\",\\n \\\"explanation\\\": \\\"Understanding that change is a natural part of life opens doors to new opportunities and growth. Embrace the uncertainty, and let it guide you towards your true potential.\\\"\\n }\\n ]\\n }\\n }\\n}\\n```\"}]}}. {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Monday\\\": {\\n \\\"Content Type\\\": \\\"Wisdom\\\",\\n \\\"Subcontent\\\": [\\n \\\"Embrace Change: Change is an essential part of life\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T15:24:48.983867",
+            "word_count": 89,
+            "char_count": 658
+        }
+    ]
+}

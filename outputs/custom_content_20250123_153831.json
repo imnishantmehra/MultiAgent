@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"week_1\\\": {\\n \\\"Monday\\\": {\\n \\\"content_type\\\": \\\"quotes\\\",\\n \\\"subcontent\\\": [\\n \\\"- 'The only way to do great work is to love what you do.' - Steve Jobs: This quote emphasizes the importance of passion in achieving excellence.\\\"\\n ]\\n }\\n }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Friday\\\": {\\n \\\"content\\\": [\\n \\\"- The importance of perseverance: Persistence in the face of challenges often leads to success and personal growth.\\\"\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T15:38:24.353667",
+            "word_count": 81,
+            "char_count": 570
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "📱 {\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n \\\"week_1\\\": {\\n \\\"Monday\\\": {\\n \\\"content_type\\\": \\\"quotes\\\",\\n \\\"subcontent\\\": [\\n \\\"- 'The only way to do great work is to love what you do.' - Steve Jobs: This quote emphasizes the importance of passion in achieving excellence.\\\"\\n ]\\n }\\n }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"```json\\n{\\n \\\"Week 1\\\": {\\n \\\"Friday\\\": {\\n \\\"content\\\": [\\n \\\"- The importance of perseverance: Persistence in the face of challenges often leads to success and personal growth.\\\"\\n ]\\n }\\n }\\n}\\n```\"}]}}\n\n#Instagram #Social",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T15:38:31.233722",
+            "word_count": 81,
+            "char_count": 570
+        }
+    ]
+}

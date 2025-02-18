@@ -1,0 +1,22 @@
+{
+    "instagram": [
+        {
+            "week_day": "Week 1 - Monday - Post 1",
+            "title": "instagram - Week 1, Monday - Post 1",
+            "content": "{\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n  \\\"Week 1\\\": {\\n    \\\"Monday\\\": {\\n      \\\"Wisdom\\\": [\\n        \\\"Embrace continuous learning: Recognize that knowledge is limitless and committing to lifelong learning enriches your perspective.\\\"\\n      ]\\n    }\\n  }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"{\\n  \\\"week_1\\\": {\\n    \\\"Friday\\\": {\\n      \\\"subcontent\\\": {\\n        \\\"wisdom\\\": [\\n          \\\"Embrace change: Change is inevitable, and adapting to it can foster personal growth.\\\"\\n        ]\\n      }\\n    }\\n  }\\n}\"}]}}",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T18:33:08.914302",
+            "word_count": 66,
+            "char_count": 497
+        },
+        {
+            "week_day": "Week 1 - Friday - Post 1",
+            "title": "instagram - Week 1, Friday - Post 1",
+            "content": "{\"Week 1\": {\"Monday\": [{\"type\": \"text\", \"text\": \"{\\n  \\\"Week 1\\\": {\\n    \\\"Monday\\\": {\\n      \\\"Wisdom\\\": [\\n        \\\"Embrace continuous learning: Recognize that knowledge is limitless and committing to lifelong learning enriches your perspective.\\\"\\n      ]\\n    }\\n  }\\n}\"}], \"Friday\": [{\"type\": \"text\", \"text\": \"{\\n  \\\"week_1\\\": {\\n    \\\"Friday\\\": {\\n      \\\"subcontent\\\": {\\n        \\\"wisdom\\\": [\\n          \\\"Embrace change: Change is inevitable, and adapting to it can foster personal growth.\\\"\\n        ]\\n      }\\n    }\\n  }\\n}\"}]}}",
+            "platform": "instagram",
+            "timestamp": "2025-01-23T18:33:16.929144",
+            "word_count": 66,
+            "char_count": 497
+        }
+    ]
+}
