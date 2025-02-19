@@ -1,7 +1,7 @@
 from crewai import Task
 # from tools import pdf_tool
 # import tools
-from tools import file_extraction_tool, linkedin_post_tool, instagram_post_tool, facebook_post_tool, twitter_post_tool, wordpress_post_tool, PLATFORM_LIMITS
+from tools import  PLATFORM_LIMITS
 from agents import script_research_agent, qc_agent, script_rewriter_agent , linkedin_agent, instagram_agent, facebook_agent, twitter_agent, wordpress_agent, regenrate_content_agent, regenrate_subcontent_agent, youtube_agent, tiktok_agent
 # from main import PLATFORM_LIMITS
 

@@ -1,7 +1,7 @@
 from crewai import Agent
 from dotenv import load_dotenv
 import os
-from tools import file_extraction_tool, twitter_post_tool, instagram_post_tool, linkedin_post_tool, facebook_post_tool, wordpress_post_tool, PLATFORM_LIMITS
+from tools import PLATFORM_LIMITS
 # import tools
 # from main import PLATFORM_LIMITS
 

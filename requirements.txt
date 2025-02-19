@@ -24,3 +24,4 @@ datetime
 typing
 pathlib
 python-pptx
+python-multipart

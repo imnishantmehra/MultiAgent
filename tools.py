@@ -11,7 +11,7 @@ from openpyxl import load_workbook
 import json
 from pptx import Presentation
 import os
-from crewai_tools import PDFSearchTool, Tool
+from crewai_tools import PDFSearchTool
 from PyPDF2 import PdfReader
 from pathlib import Path
 from datetime import datetime
@@ -396,11 +396,11 @@ def process_content_for_platform(content: str, platform: str, limits: Dict) -> s
 file_processor = FileProcessor()
 
 # Define a tool wrapper for file processing
-file_extraction_tool = Tool(
-    name="FileExtractionTool",
-    description="A universal tool for extracting text from various file formats.",
-    func=lambda file_path: file_processor.extract_text_from_file(file_path),  # Use 'func' as the field name
-)
+# file_extraction_tool = Tool(
+#     name="FileExtractionTool",
+#     description="A universal tool for extracting text from various file formats.",
+#     func=lambda file_path: file_processor.extract_text_from_file(file_path),  # Use 'func' as the field name
+# )
 
 
 
@@ -428,11 +428,11 @@ def generate_twitter_post(content: str, limits: dict) -> str:
     hashtags = "#Trending #Innovation #Tech"
     return f"{content}\n\n{hashtags}"
 
-twitter_post_tool = Tool(
-    name="TwitterPostGeneratorTool",
-    description="Generates concise and impactful tweets with dynamic hashtags, respecting platform limits.",
-    func=lambda content: generate_twitter_post(content, PLATFORM_LIMITS),
-)
+# twitter_post_tool = Tool(
+#     name="TwitterPostGeneratorTool",
+#     description="Generates concise and impactful tweets with dynamic hashtags, respecting platform limits.",
+#     func=lambda content: generate_twitter_post(content, PLATFORM_LIMITS),
+# )
 
 
 
@@ -443,11 +443,11 @@ def generate_instagram_post(content: str, limits: dict) -> str:
     emoji = "📸✨"
     return f"{emoji} {content.strip()} {hashtags}"
 
-instagram_post_tool = Tool(
-    name="InstagramPostGeneratorTool",
-    description="Generates Instagram captions with emojis and hashtags, respecting platform limits.",
-    func=lambda content: generate_instagram_post(content, PLATFORM_LIMITS),
-)
+# instagram_post_tool = Tool(
+#     name="InstagramPostGeneratorTool",
+#     description="Generates Instagram captions with emojis and hashtags, respecting platform limits.",
+#     func=lambda content: generate_instagram_post(content, PLATFORM_LIMITS),
+# )
 
 
 def generate_linkedin_post(content: str, limits: dict) -> str:
@@ -456,11 +456,11 @@ def generate_linkedin_post(content: str, limits: dict) -> str:
     hashtags = "#Professional #Leadership #Growth"
     return f"{content.strip()} {hashtags} Engage with this post by sharing your thoughts!"
 
-linkedin_post_tool = Tool(
-    name="LinkedInPostGeneratorTool",
-    description="Generates professional LinkedIn posts with dynamic formatting and hashtags.",
-    func=lambda content: generate_linkedin_post(content, PLATFORM_LIMITS),
-)
+# linkedin_post_tool = Tool(
+#     name="LinkedInPostGeneratorTool",
+#     description="Generates professional LinkedIn posts with dynamic formatting and hashtags.",
+#     func=lambda content: generate_linkedin_post(content, PLATFORM_LIMITS),
+# )
 
 
 def generate_facebook_post(content: str, limits: dict) -> str:
@@ -468,11 +468,11 @@ def generate_facebook_post(content: str, limits: dict) -> str:
     content = trim_content(content, "facebook", limits)
     return f"{content.strip()} Like and share if you agree! 👍"
 
-facebook_post_tool = Tool(
-    name="FacebookPostGeneratorTool",
-    description="Generates friendly and engaging Facebook posts, respecting platform limits.",
-    func=lambda content: generate_facebook_post(content, PLATFORM_LIMITS),
-)
+# facebook_post_tool = Tool(
+#     name="FacebookPostGeneratorTool",
+#     description="Generates friendly and engaging Facebook posts, respecting platform limits.",
+#     func=lambda content: generate_facebook_post(content, PLATFORM_LIMITS),
+# )
 
 
 def generate_wordpress_post(content: str, limits: dict) -> str:
@@ -481,11 +481,11 @@ def generate_wordpress_post(content: str, limits: dict) -> str:
     # title = "Blog Title: " + (content[:50] + "..." if len(content) > 50 else content)
     return f" {content.strip()} #SEO #WordPress"
 
-wordpress_post_tool = Tool(
-    name="WordPressPostGeneratorTool",
-    description="Generates SEO-optimized WordPress blog posts, respecting platform limits.",
-    func=lambda content: generate_wordpress_post(content, PLATFORM_LIMITS),
-)
+# wordpress_post_tool = Tool(
+#     name="WordPressPostGeneratorTool",
+#     description="Generates SEO-optimized WordPress blog posts, respecting platform limits.",
+#     func=lambda content: generate_wordpress_post(content, PLATFORM_LIMITS),
+# )
 
 
 def generate_youtube_post(content: str, limits: dict) -> str:
@@ -494,11 +494,11 @@ def generate_youtube_post(content: str, limits: dict) -> str:
     # title = "Blog Title: " + (content[:50] + "..." if len(content) > 50 else content)
     return f" {content.strip()} "
 
-youtube_post_tool = Tool(
-    name="youtubePostGeneratorTool",
-    description="Generate a youtube post which is further used for image or video genration.",
-    func=lambda content: generate_youtube_post(content, PLATFORM_LIMITS),
-)
+# youtube_post_tool = Tool(
+#     name="youtubePostGeneratorTool",
+#     description="Generate a youtube post which is further used for image or video genration.",
+#     func=lambda content: generate_youtube_post(content, PLATFORM_LIMITS),
+# )
 
 
 def generate_tiktok_post(content: str, limits: dict) -> str:
@@ -507,8 +507,8 @@ def generate_tiktok_post(content: str, limits: dict) -> str:
     # title = "Blog Title: " + (content[:50] + "..." if len(content) > 50 else content)
     return f" {content.strip()} "
 
-tiktok_post_tool = Tool(
-    name="tiktokPostGeneratorTool",
-    description="Generate a youtube post which is further used for image or video genration.",
-    func=lambda content: generate_tiktok_post(content, PLATFORM_LIMITS),
-)
+# tiktok_post_tool = Tool(
+#     name="tiktokPostGeneratorTool",
+#     description="Generate a youtube post which is further used for image or video genration.",
+#     func=lambda content: generate_tiktok_post(content, PLATFORM_LIMITS),
+# )
