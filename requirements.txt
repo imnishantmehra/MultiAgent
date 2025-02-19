@@ -17,6 +17,10 @@ markdown
 pytube
 wave
 psycopg2
-Flask 
-requests
-chardet
+docx2txt
+sqlalchemy
+sqlalchemy.orm
+datetime
+typing
+pathlib
+python-pptx
