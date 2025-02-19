@@ -653,12 +653,18 @@ async def generate_custom_scripts(
                 file_name=file.filename,
                 file_type=file_type
             )
-            db_storage_status = "success"
-            db_storage_message = f"Successfully stored {len(stored_contents)} content items in database"
+            if stored_contents:  # Ensure some data was actually stored
+                db_storage_status = "success"
+                db_storage_message = f"Successfully stored {len(stored_contents)} content items in database"
+            else:
+                db_storage_status = "failed"
+                db_storage_message = "No content was stored in the database."
+
         except Exception as e:
             db_storage_status = "failed"
             db_storage_message = f"Failed to store in database: {str(e)}"
             print(f"Database storage error: {str(e)}")
+
         
         return {
             "status": "success",
